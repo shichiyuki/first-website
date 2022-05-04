@@ -10,7 +10,12 @@
     body {
     font-family:Arial, Helvetica, sans-serif;
     padding:5px;
-    background-image: url("...");
+    background-image: url("https://i.pinimg.com/originals/4b/28/38/4b283868bcc048649f65ee838d23ff10.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    height: 100%;
     }
     
     .header {
@@ -26,6 +31,7 @@
     .leftcol {
     float: left;
     width: 85%;
+    color: white;
     }
     
     .rightcol {
