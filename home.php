@@ -128,12 +128,12 @@ aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 
 </div>
 
-<footer class= "footer">
+<div class= "footer">
 Contact me:
-<a href="..."> Icon 1 </a>
-<a href="..."> Icon 2 </a>
-<a href="..."> Icon 3 </a>
-</footer>
+<a href="facebook.com"> Icon 1 </a>
+<a href="twitter.com"> Icon 2 </a>
+<a href="gmail.com"> Icon 3 </a>
+</div>
 
 
 </body>
